@@ -19,7 +19,7 @@
     "onchange": "^6.1.0",
     "postcss-cli": "^7.1.0",
     "uglifycss": "0.0.29",
-    "minimist": ">=1.2.3"
+    "minimist": ">=1.2.6"
   },
   "browserslist": "last 4 versions"
 }
